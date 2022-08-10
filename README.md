@@ -1,0 +1,2 @@
+# FUNCTIONS
+A start for JAVASCRIPT
